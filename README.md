@@ -1,1 +1,1 @@
-# Sales_Dashboard_PowerBI
+📊The Perfect modeled and transformed dashboard of a sales data has been created by me in which the client will easily identify the monthly sales category wise , State Wise , Payment mode wise . also i will provide some slicers as Quater and State to show the Perfect data for any perticular field . 
